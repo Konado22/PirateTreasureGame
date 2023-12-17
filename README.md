@@ -30,4 +30,13 @@ Using the algorithim below we can determine moves, games, and rewards
 ![](algo.png)
 
 From there we can run the game and print results of the pirates pathing after learning from complete random 
+
 ![](results.png)
+
+## License 
+
+MIT
+
+## Contributors
+
+Myself and starter code provided in cs-370
